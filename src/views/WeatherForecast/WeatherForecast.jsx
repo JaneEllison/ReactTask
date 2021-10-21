@@ -23,7 +23,7 @@ class WeatherForecast extends React.PureComponent {
   }
 
   componentDidMount() {
-    this.getData();
+    // this.getData();
   }
 
   async getData() {
